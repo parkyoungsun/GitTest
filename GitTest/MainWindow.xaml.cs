@@ -29,6 +29,7 @@ namespace GitTest
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Console.WriteLine("123");
+            Console.WriteLine("456");
         }
     }
 }
