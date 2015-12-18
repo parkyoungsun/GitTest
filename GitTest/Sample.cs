@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitTest
 {
-    punlic class Sample
+    public class Sample
     {
     }
 }
