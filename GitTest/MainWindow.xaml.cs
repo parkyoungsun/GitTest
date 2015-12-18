@@ -25,5 +25,10 @@ namespace GitTest
             InitializeComponent();
             Console.WriteLine("First Test");
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Console.WriteLine("123");
+        }
     }
 }
