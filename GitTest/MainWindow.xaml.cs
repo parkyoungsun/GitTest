@@ -23,6 +23,7 @@ namespace GitTest
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("First Test");
         }
     }
 }
